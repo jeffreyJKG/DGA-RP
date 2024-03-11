@@ -1,0 +1,21 @@
+#######################################################################################
+#Bot instellingen
+
+token: 'MTE4Mzg0NTYyOTc4NTU1MDk1OQ.GaIWoT.UhXvG3ftqovSHlAorCDsj-wkm0DbKqsx0AmBgU'
+guildId: '1183607654115987516'
+status: 'Made by SP/Mystic'
+
+#######################################################################################
+#kleuren
+                                                                                                              
+colors:
+    negative: 'ff4d4d'
+    positive: '5ea832'
+    create: 'c462be'
+    reply: '00e3a6'
+
+#######################################################################################
+
+#Giveaway
+hostedBy: true
+everyoneMention: true
